@@ -1,6 +1,6 @@
 terraform {
   backend "s3" {
-  bucket ="my-bucket-3iter"
+  bucket ="my-bucket-3-tier"
   key = "jenkin"
   region = "eu-north-1" 
     
